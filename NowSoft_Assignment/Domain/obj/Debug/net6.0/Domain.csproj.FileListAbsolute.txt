@@ -1,0 +1,12 @@
+E:\LMS\Assignment\NowSoft_Assignment\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\LMS\Assignment\NowSoft_Assignment\Domain\bin\Debug\net6.0\Domain.dll
+E:\LMS\Assignment\NowSoft_Assignment\Domain\bin\Debug\net6.0\Domain.pdb
+E:\LMS\Assignment\NowSoft_Assignment\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\LMS\Assignment\NowSoft_Assignment\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\LMS\Assignment\NowSoft_Assignment\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\LMS\Assignment\NowSoft_Assignment\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\LMS\Assignment\NowSoft_Assignment\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\LMS\Assignment\NowSoft_Assignment\Domain\obj\Debug\net6.0\Domain.dll
+E:\LMS\Assignment\NowSoft_Assignment\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\LMS\Assignment\NowSoft_Assignment\Domain\obj\Debug\net6.0\Domain.pdb
+E:\LMS\Assignment\NowSoft_Assignment\Domain\obj\Debug\net6.0\ref\Domain.dll
